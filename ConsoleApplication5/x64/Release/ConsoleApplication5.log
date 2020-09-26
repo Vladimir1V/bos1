@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  ConsoleApplication5.cpp
+c:\users\dexp\desktop\bos\bos1\consoleapplication5\consoleapplication5.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\dexp\desktop\bos\bos1\consoleapplication5\consoleapplication5.cpp(1): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\dexp\desktop\bos\bos1\consoleapplication5\consoleapplication5.cpp(2): note: использование предварительно скомпилированного заголовка
+c:\program files (x86)\windows kits\8.1\include\um\combaseapi.h(229): error C2760: синтаксическая ошибка: ожидался токен "спецификатор типа", а не "идентификатор"
+c:\users\dexp\desktop\bos\bos1\consoleapplication5\consoleapplication5.cpp(73): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+  c:\users\dexp\desktop\bos\bos1\consoleapplication5\consoleapplication5.cpp(73): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  c:\users\dexp\desktop\bos\bos1\consoleapplication5\consoleapplication5.cpp(73): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  c:\users\dexp\desktop\bos\bos1\consoleapplication5\consoleapplication5.cpp(73): note: этот аргумент используется в качестве размера буфера
